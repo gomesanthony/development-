@@ -1,4 +1,7 @@
 
 Hello User
 This is a text file under Unix branch.
-Thank you, we have update the master branch.
+<<<<<<< HEAD
+=======
+Thank you for updating changes in Unix branch.
+>>>>>>> Unix
